@@ -1,5 +1,5 @@
 My first attempt at finetuning llama to generate svgs.
-Also my first attemt to training ai
+Also my first attemt to training ai.
 Svg dataset from https://openmoji.org/
 
 Not very successful:
